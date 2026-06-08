@@ -1,8 +1,8 @@
 # Lab 5 – Build a Database Server (AWS)
 
 ## Author
-* **Name**: Sanjeev Kumar S
-* **Register Number**: 212224040290
+* **Name**: PUGAZH SOZHAN A
+* **Register Number**: 212224240121
 ---
 
 ## Objective
