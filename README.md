@@ -31,4 +31,4 @@ This repository contains six hands-on AWS labs covering core cloud infrastructur
 
 ## Author
 
-Sanjeev Kumar (212224040290)
+PUGAZH SOZHAN A (212224240121)
