@@ -1,8 +1,8 @@
 # Lab 3 – Introduction to Amazon Elastic Compute Cloud (EC2)
 
 ## Author
-* **Name**: Sanjeev Kumar S
-* **Register Number**: 212224040290
+* **Name**: PUGAZH SOZHAN A 
+* **Register Number**: 212224240121
 ---
 
 ## Objective
