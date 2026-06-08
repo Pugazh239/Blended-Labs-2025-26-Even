@@ -73,7 +73,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-- **Name:** Sanjeev Kumar S (212224040290)
+- **Name:** PUGAZH SOZHAN A (212224240121)
 - **Course:** 19AI541-TSIOT005 - Cloud Computing
  
 
